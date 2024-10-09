@@ -1,0 +1,1902 @@
+[
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "patio",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "roasting marshmallows"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "point of view shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "On a cozy patio, a woman roasts marshmallows over a flickering fire pit. The cinematic camera moves to unveil surrounding string lights and potted plants, capturing the warm ambiance before returning to the woman's contented face.",
+        "prompt_continuation": "The camera then shifts to reveal a nearby table adorned with hot cocoa and blankets, emphasizing the tranquil atmosphere. As it returns to the woman, her marshmallow perfectly toasts, glowing golden-brown against the fire."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "coffee shop",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "many",
+                "action": "sitting on a table"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "slow motion"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a cozy coffee shop, many cats are sitting on tables, their fur rustling gently. The camera moves in cinematic slow motion, revealing the warm wooden interior adorned with plants, creating a serene atmosphere.",
+        "prompt_continuation": "Baristas behind the counter smile while brewing coffee, delicate steam wafting upwards. Light filters through large windows, casting soft shadows, as the camera captures the playful yet tranquil cats in their charming, quiet kingdom."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "topiary garden",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "many",
+                "action": "bobsledding"
+            },
+            "camera": {
+                "type": "helicopter camera",
+                "movement": "camera turns right"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A helicopter camera turns right, capturing many kids bobsledding through a beautifully sculpted topiary garden, revealing intricate hedges and whimsical plant sculptures against the energetic, snowy foreground.",
+        "prompt_continuation": "The camera's turn unveils a grand fountain encircled by pruned, animal-shaped bushes, while the kids cheerfully navigate their bobsleds, weaving between the lush, maze-like greenery with spirited laughter echoing through the garden."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "firing range - indoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "feeding a woman"
+            },
+            "camera": {
+                "type": "red dragon camera",
+                "movement": "follow shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an indoor firing range, a man gently feeds a woman, while the Red Dragon camera follows their movement, capturing the rows of targets and ammunition racks creating a dynamic and immersive scene.",
+        "prompt_continuation": "As the man steps aside, the woman confidently picks up a firearm, ready to aim. The camera encircles them, showcasing the intricately designed safety gear and shooting lanes lined with target silhouettes."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "nursery",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "one",
+                "action": "sniffing the food"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "camera pans around the subject"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a cozy nursery filled with toys and a crib, a single cat sniffs at food on the floor, while a wide-angle camera pans around, revealing colorful walls and a rocking chair in the background.",
+        "prompt_continuation": "As the camera continues to pan, it captures the cat's curious whiskers twitching and the soft glow from a nightlight, casting gentle shadows over a plush rug and scattered storybooks."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "ski slope",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "two",
+                "action": "eating the food"
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "point of view shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "On a snowy ski slope, two cats are eating food from bowls. The cinematic quality point of view shot glides, showcasing skiers in the background and the pristine, snowy landscape around.",
+        "prompt_continuation": "As the camera pans, skiers whiz by in the distance while the two cats playfully bat at each other between bites, their breath visible in the cold, crisp air."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "bookstore",
+            "subject": {
+                "name": "girl",
+                "number_of_subjects": "one",
+                "action": "moving baby"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "camera moves back on a slider"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A young girl gently rocks a baby, navigating through a cozy bookstore with shelves of books looming overhead. The camera glides backward on a slider, revealing the intricate maze of literature and warm, inviting atmosphere.",
+        "prompt_continuation": "The camera pulls back further, unveiling a reading nook where customers are engrossed in their books, soft lighting casting comforting shadows, and the faint background hum of whispered conversations filling the bookstore's serene ambiance."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "river",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "riding the sea"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "camera pans around the subject"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A man rides a jet ski down a tranquil river, his reflection shimmering on the water. As the wide-angle camera pans around, the lush shoreline and distant mountains shift dynamically in the background.",
+        "prompt_continuation": "The camera pans further, capturing the man weaving through gentle waves, the sun setting behind him. The golden light casts a warm glow, and birds can be seen flying across the vibrant sky."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "dining car",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "washing a dish"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "camera pans around the subject, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a cozy dining car, a lone woman meticulously washes a dish at a sink. The camera smoothly pans around her, briefly revealing polished wooden tables and passengers before returning to focus on her diligent work.",
+        "prompt_continuation": "As the camera returns, it captures the woman's serene expression. Sunlight filters through nearby windows, casting gentle reflections on the glassware and adding a warm glow to the elegantly set dining tables behind her."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "mezzanine",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "two",
+                "action": "baking a pizza"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "camera turns right"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "From a high angle view on a mezzanine, the camera turns right, capturing two men baking a pizza in a bustling kitchen below. The scene reveals various kitchen equipment and ingredients on the countertops.",
+        "prompt_continuation": "As the camera continues to turn, it reveals a dining area adjacent to the kitchen, where a cozy table is set, and warm ambient light filters through large windows, creating a welcoming atmosphere."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "pier",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "one",
+                "action": "jumping into pool"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "camera moves between different objects"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A kid jumps off a pier into a pool, as the camera dynamically shifts, revealing boats docked in the background and seagulls perched on nearby pilings, creating an immersive, cinematic experience.",
+        "prompt_continuation": "As the kid splashes into the pool, the camera moves to focus on ripples spreading across the water, then shifts to capture the joyful expressions of onlookers and the tranquil sunset over the horizon."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "railroad track",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "riding a horse"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "smooth dolly move"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A woman rides a horse along an abandoned railroad track, her reflection visible in a nearby puddle. The ground shot captures a smooth dolly move, revealing surrounding trees and distant mountains in parallax.",
+        "prompt_continuation": "The camera glides forward, showing the horse's hooves rhythmically hitting the tracks, while birds scatter from the trees. In the distance, an old station comes into view, partially obscured by morning mist."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "water tower",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "three",
+                "action": "passing American football (not in game)"
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "camera moves front on a slider, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Three women casually pass an American football in front of a towering water tower. The cinematic camera glides smoothly on a slider, revealing the tower's imposing structure and creating a dynamic parallax effect.",
+        "prompt_continuation": "As the camera moves back, it captures the women laughing and enjoying their time together, with the water tower providing a dramatic backdrop against a clear blue sky."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "aquatic theater",
+            "subject": {
+                "name": "girl",
+                "number_of_subjects": "one",
+                "action": "tightrope walking"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "slow motion shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In an aquatic theater, a girl tightrope walks gracefully above a shimmering pool, her reflection glistening below. A wide-angle camera captures the scene in slow motion, revealing the surrounding intricate water features with stunning parallax effect.",
+        "prompt_continuation": "As the girl advances, delicate splashes from a nearby fountain create ripples in her reflection. The wide-angle shot slowly shifts, revealing an enraptured audience and vibrant marine life swimming below."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "hunting lodge - outdoor",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "camera moves back on a slider"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In the shadowy exterior of a hunting lodge, a dog sniffs the ground. The camera moves back on a slider, revealing the rustic lodge, tall trees, and scattered gear, creating a dynamic, layered perspective.",
+        "prompt_continuation": "As the camera glides further back, the dog trots towards the forest, ears perked. The sun casts a dappled light through the trees, highlighting a well-worn path leading deeper into the woods."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "restaurant patio",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "three",
+                "action": "diving cliff"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "camera turns right"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Three men on a restaurant patio cheer and watch as one of them starts diving off a cliff. The low-angle camera turns right, revealing diners, tables, and an expansive ocean beyond the cliff.",
+        "prompt_continuation": "The man plunges gracefully towards the waves below. The camera catches splashes from excited diners' drinks, pans to the cliff's edge, then sweeps right, showing his triumphant emergence from the sparkling water.\n"
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "river",
+            "subject": {
+                "name": "boat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "camera moves back on a slider"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A wide-angle camera glides back, revealing a serene river with a single boat drifting gently. The water reflects the boat and surrounding trees, creating a tranquil, mirrored landscape.",
+        "prompt_continuation": "As the camera moves further back, the boat's reflection merges with distant, rippling waves, while nearby birds take flight, adding dynamic movement to the calm river landscape."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "pet shop",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "feeding a dog"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A man is feeding a dog in a bustling pet shop. The camera pulls out, revealing rows of cages, colorful pet supplies, and busy staff and customers in the background, creating a lively and dynamic scene.",
+        "prompt_continuation": "The dog eagerly eats from the man's hand as shelves lined with toys and food come into view. A parrot squawks nearby, and a child watches in awe, clutching a toy leash."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "train interior",
+            "subject": {
+                "name": "skis",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "camera moves between different objects"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a moving train's interior, the camera pans smoothly between seats and luggage racks, revealing a pair of skis standing upright, creating a sense of depth and highlighting the cozy, compact space.",
+        "prompt_continuation": "The camera shifts to the window, capturing fleeting snowy landscapes outside, then returns to focus on a passenger adjusting their scarf, emphasizing the warm, inviting atmosphere inside the train."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "balcony - interior",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "one",
+                "action": "laying by a man"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A wide-angle pull-out shot reveals a man on a cozy balcony, resting beside a laying dog, both mirrored in a window's reflection as they enjoy the interior view.",
+        "prompt_continuation": "As the camera continues to pull back, potted plants and string lights come into view, highlighting the serene ambiance of the balcony interior against the backdrop of a sprawling cityscape."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "house",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "A drone shot pulls out from a cozy house, revealing a playful dog in the yard, casting a long shadow as the camera ascends, uncovering the surrounding neighborhood.",
+        "prompt_continuation": "As the drone ascends further, the charming garden with blooming flowers comes into view, followed by the sprawling landscape of the town, all bathed in the golden hues of the setting sun."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "dentists office",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "assembling computer"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "push in shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A high-angle view pushes in on a single person intently assembling a computer at a cluttered desk within a dentist's office, revealing dental chairs, equipment, and posters in the background.",
+        "prompt_continuation": "As the camera continues to push in, the person's focused expression becomes clearer, while dental tools and a sterilization station come into sharper focus in the foreground, adding depth to the bustling office environment."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "auto factory",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "one",
+                "action": "drinking the water"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "dolly shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an auto factory, a lone dog drinks water from a puddle amidst hulking machinery and assembly lines. The ground shot dolly camera moves forward, revealing industrial surroundings with the dog in sharp focus.",
+        "prompt_continuation": "As the camera progresses, it captures the robot arms working on car chassis in the background, creating a stark contrast between the bustling machinery and the stillness of the drinking dog."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "auditorium",
+            "subject": {
+                "name": "vase",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "pedestal shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A pedestal shot from a drone captures an auditorium, revealing rows of seats and a stage, with a single ornate vase prominently placed at the center, creating stark parallax between foreground and background elements.",
+        "prompt_continuation": "As the drone ascends, the vase remains central, while more of the auditorium's architectural details and lighting fixtures come into view, emphasizing the vastness and elegance of the space."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "junkyard",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "paragliding"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a cinematic pull-out shot, a lone person is seen paragliding over a sprawling junkyard, their shadow gliding over heaps of scrap metal and abandoned cars, revealing the chaotic landscape below.",
+        "prompt_continuation": "As the camera continues to pull out, it reveals the vast expanse of the junkyard, juxtaposing the serenity of the paraglider against the intricate maze of rusted machinery and discarded treasures below."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "watering hole",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "holding a football"
+            },
+            "camera": {
+                "type": "aerial shot",
+                "movement": "follow shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "An aerial shot follows a lone man holding a football as he walks cautiously near a watering hole, where birds scatter and ripples spread across the sunlit water.",
+        "prompt_continuation": "The camera pans, revealing a herd of zebras grazing nearby, their reflections shimmering in the water, while the man navigates around the edge, glancing cautiously at the wildlife."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "power plant - outdoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "two",
+                "action": "carrying a basket"
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "follow shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A drone follows two men carrying a basket through the sprawling, complex machinery of an outdoor power plant, revealing towering structures and intricate pipes against a backdrop of clear blue sky.",
+        "prompt_continuation": "The drone ascends, capturing the men navigating through winding pathways and maintenance areas, as the plant's chimneys and cooling towers loom in the distance, emphasizing the industrial scale and humming activity below."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "elevator lobby",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "one",
+                "action": "eating the food"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "steadycam shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an elevator lobby, a steadycam ground shot captures a lone cat eating food, revealing sleek elevators in the background and stylish lobby decor in the foreground, creating a depth of field with visible parallax.",
+        "prompt_continuation": "The camera glides closer, the cat's purring audible as it focuses on its meal. The polished floors reflect the dim lobby lights, and distant elevator dings hint at approaching occupants."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "biology laboratory",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "three",
+                "action": "drinking the water"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "camera moves back on a slider"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In a biology laboratory, three dogs drink water from bowls on a reflective countertop. The camera moves back on a slider, offering a high angle view that reveals lab equipment and charts in the background.",
+        "prompt_continuation": "As the camera continues to slide back, a researcher enters the frame, jotting notes on a clipboard, while the dogs' reflections shimmer on the countertop, adding depth to the bustling lab environment."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "alcove",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "card throwing"
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a dimly-lit alcove, a solitary person expertly throws playing cards, as the camera trucks smoothly to reveal intricate wall carvings and scattered cards on the floor, creating a dynamic sense of depth.",
+        "prompt_continuation": "The camera continues trucking, highlighting the person's intense concentration, while emerging shadows dance across the alcove walls, and the cascade of cards flutters around, enhancing the mysterious ambiance."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "parking lot",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "hugging teddy bears"
+            },
+            "camera": {
+                "type": "long shot",
+                "movement": "arc shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a spacious parking lot, a woman lovingly hugs a teddy bear; the camera performs an arc shot, revealing rows of cars and the distant city skyline in the background.",
+        "prompt_continuation": "As the camera continues to arc, a gentle breeze rustles through the trees lining the lot, while the woman smiles, lost in a bittersweet memory with the teddy bear held tightly to her chest."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "great hall",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "cutting a paper"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "handheld shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a grand, echoing great hall, a man carefully cuts a paper at a large wooden table. The handheld wide-angle camera moves smoothly around, revealing towering pillars and intricate tapestries in the background.",
+        "prompt_continuation": "The camera shifts, capturing the ornate chandeliers above and the intricate mosaic floor below. The man pauses, glancing thoughtfully at his work, the ambient light casting long shadows across the grand space."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "tennis court - outdoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "looking at a cow"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "pedestal shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A high-angle view pedestals down over an outdoor tennis court, revealing a man gazing at a cow. The court's surface reflects their mirrored images, creating a surreal contrast between sport and nature.",
+        "prompt_continuation": "As the camera lowers, the man steps closer to the cow, astonished. Surrounding spectators in tennis attire look confused yet amused by this unexpected encounter, their reflections shimmering on the court's surface."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "church - indoor",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "two",
+                "action": "sniffing the food"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "follow shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a serene, sunlit church interior, two curious cats sniff the food placed near a pew, captured by a high angle follow shot, revealing intricate stained glass windows in the background.",
+        "prompt_continuation": "As the camera glides, showing more of the ornate altar, the cats, now playful, chase each other around a wooden bench, their movements contrasting with the still, sacred ambiance of the church."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "crevasse",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "aerial shot",
+                "movement": "slow motion shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "An aerial shot captures a cat precariously perched on the edge of a crevasse. In slow motion, the camera moves in to reveal the depth of the icy chasm, then retreats, showing the cat's daring position amidst the expansive landscape.",
+        "prompt_continuation": "The cat carefully navigates a narrow, icy ledge as the camera sweeps back and forth, emphasizing the dizzying height and treacherous surroundings, highlighting the cat's graceful determination against the stark, frozen backdrop."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "legislative chamber",
+            "subject": {
+                "name": "sink",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "camera moves front on a slider"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In a cinematic shot from a legislative chamber, the camera glides forward on a slider, revealing a reflective sink in the foreground, capturing the grandiose assembly surroundings through its gleaming surface.",
+        "prompt_continuation": "As the camera slides closer, the intricate woodwork and regal seating of the chamber come into sharper focus, reflected elegantly in the sink, hinting at a deeper narrative unfolding within this stately setting."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "dorm room",
+            "subject": {
+                "name": "spoon",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "tracking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "The cinematic tracking shot moves through a cluttered dorm room, focusing on a lone spoon left on a messy desk, highlighting the chaotic yet personal student living space.",
+        "prompt_continuation": "The camera glides past textbooks and laundry piles, revealing a disorganized bed in the background, as sunlight filters through half-closed blinds, casting shadows that dance across the room."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "greenhouse - indoor",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "two",
+                "action": "eating the food"
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "first person shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a first-person shot inside a lush greenhouse, the camera pans to reveal two cats eating their food amidst a backdrop of vibrant plants and hanging vines.",
+        "prompt_continuation": "The camera gently tracks closer, focusing on the cats' contentment while colorful flowers and sunlight streaming through glass panes create a serene atmosphere around them."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "topiary garden",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "two",
+                "action": "drinking the water"
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "camera pans around the subject"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a meticulously trimmed topiary garden, two cats sip water from a stone fountain. The drone camera gracefully pans around them, casting elongated shadows across the verdant hedges and colorful flower beds.",
+        "prompt_continuation": "As the camera continues to pan, a majestic view of sculpted bushes and labyrinthine pathways emerges, revealing more of the garden's layout while the cats' playful reflections shimmer in the gently rippling fountain water."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "tree house",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "sitting in a wheelchair"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "tracking shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "A wide-angle tracking shot reveals a tree house bathed in the dappled light of the forest canopy. A man in a wheelchair sits thoughtfully, as the shadow of leaves dances across his face.",
+        "prompt_continuation": "As the camera moves, it reveals a rope ladder swaying gently in the breeze and a cluster of birds perched nearby, adding an air of serenity to the scene."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "jail - indoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "holding a phone"
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "camera pans around the subject"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a dimly lit jail cell, a man grasping a phone paces anxiously. The camera smoothly pans around him, revealing stark concrete walls and barred windows casting ominous shadows, highlighting the somber atmosphere.",
+        "prompt_continuation": "As the man speaks urgently into the phone, the camera tilts up, capturing his tense expression. His voice echoes softly, blending with distant, muffled sounds of other inmates, heightening the isolation."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "home theater",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "sharpening knives"
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "intense shaking effect, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A man methodically sharpens knives in a dimly lit home theater as the camera shakes intensely, revealing plush seats and a projection screen, before snapping back to the focused, glinting blades.",
+        "prompt_continuation": "The camera then zooms in on the man's concentrated expression, highlighting sweat beads on his forehead, before pulling back to reveal a shadowy figure lurking at the theater's entrance."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "orchard",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "hugging (not baby)"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "arc shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a sunlit orchard, amidst rows of apple trees, a medium shot captures a person warmly hugging a friend. The camera arcs around them, revealing lush greenery and ripening fruit in the background.",
+        "prompt_continuation": "As the camera completes its arc, a gentle breeze rustles the leaves, and a distant bird call harmonizes with the serene ambiance. The person's smile broadens, reflecting the peace of the orchard."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "hotel - outdoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "cutting a pizza"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A high-angle trucking shot captures a man cutting a pizza at an outdoor hotel setting, reflections shimmering on nearby glass surfaces, enhancing the lively ambiance.",
+        "prompt_continuation": "The camera moves, revealing the hotel's stylish facade and garden, where guests relax. The man's content smile is reflected in a glass table, adding a warm, inviting atmosphere to the scene."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "ice floe",
+            "subject": {
+                "name": "boat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "first person shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "From a first-person medium shot, a boat glides through an icy sea, drifting past towering ice floes that shimmer in the cold, crisp air.",
+        "prompt_continuation": "As the boat moves, chunks of ice crack and bob in its wake, with the distant call of seabirds echoing through the otherwise silent, frozen landscape."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "boathouse",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "two",
+                "action": "canoeing or kayaking"
+            },
+            "camera": {
+                "type": "aerial high angle view",
+                "movement": "boom shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "Two kids are canoeing by a boathouse, their playful laughter echoing across the water. From an aerial high angle, the camera executes a boom shot, revealing shimmering reflections and then returns to its original position.",
+        "prompt_continuation": "The camera then moves to capture the boathouse's rustic charm and the gentle sway of nearby trees, creating a sense of serenity as the kids paddle further, their reflections dancing on the rippling water."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "dining room",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "holds a bottle"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "follow shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a cozy dining room, a woman holds a bottle as the wide-angle camera performs a follow shot, revealing a wooden table and chairs in the foreground and a vintage cabinet in the background.",
+        "prompt_continuation": "As she walks to the table, the camera follows, capturing the sunlight streaming through a nearby window, illuminating an elegant chandelier above and a painting of a serene landscape on the wall."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "shopfront",
+            "subject": {
+                "name": "bear",
+                "number_of_subjects": "two",
+                "action": "standing by a tree"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "smooth dolly move"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Two bears stand by a tree in front of a charming shopfront, viewed from a high angle as the camera smoothly dollies forward, revealing the vibrant storefront and surrounding foliage.",
+        "prompt_continuation": "The camera glides closer, showcasing the bears sniffing the shop's window display filled with colorful pastries while autumn leaves gently fall around them, adding a touch of whimsy to the cozy atmosphere."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "bar",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "three",
+                "action": "leaning against a wall"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "camera turns left"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a dimly-lit bar, three men lean against a brick wall, casting long shadows. The low-angle camera turns left, revealing tables, a jukebox, and patrons, creating a dynamic sense of depth.",
+        "prompt_continuation": "As the camera pans further, a bartender polishing glasses comes into view. Patrons chatter softly, and neon signs flicker, adding vibrant colors to the moody ambiance of the bar."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "auto factory",
+            "subject": {
+                "name": "toaster",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "push in shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In an auto factory, a wide-angle camera pushes in, revealing rows of gleaming toasters on an assembly line, their metallic surfaces reflecting the industrial machinery and conveyor belts surrounding them.",
+        "prompt_continuation": "The camera continues to push in, capturing workers meticulously inspecting each toaster, while robotic arms move with precision in the background, contributing to the seamless, reflective dance of the factory's automated process."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "podium - indoor",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "follow shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In an indoor auditorium, a dog stands proudly on a polished podium. The cinematic-quality camera follows the dog, capturing its reflection on the shiny surface, as the background subtly shifts to reveal rows of seats.",
+        "prompt_continuation": "The camera smoothly pans around, showing the audience's applause while the dog wags its tail energetically. The reflection on the podium continues to glimmer, enhancing the triumphant atmosphere of the indoor setting."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "ruin",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "many",
+                "action": "hugging (not baby)"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A wide-angle shot pulls out to reveal many men hugging amid ancient ruins, their forms contrasting starkly with the crumbling stone structures and overgrown vegetation surrounding them.",
+        "prompt_continuation": "As the camera pulls out further, the extent of the devastation becomes clear, with shattered pillars and collapsed walls stretching out, while the men, bound in their embrace, stand as a poignant symbol of resilience."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "bazaar - outdoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "two",
+                "action": "chasing a frisbee"
+            },
+            "camera": {
+                "type": "low aerial shot",
+                "movement": "pedestal shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a bustling outdoor bazaar, two men chase a frisbee amidst colorful market stalls. The low aerial shot reveals vibrant fabrics and trinkets, moving up and down to capture their playful pursuit.",
+        "prompt_continuation": "The camera pans across the busy market as the men dart past vendors. Shoppers smile and step aside, creating a dynamic backdrop of vibrant, bustling activity against the lively chase."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "pet shop",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "one",
+                "action": "playing beer pong"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "dolly shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a pet shop, a kid is playing beer pong amid colorful cages while the camera performs a dolly shot, seamlessly revealing rows of animals and pet supplies in the foreground and background.",
+        "prompt_continuation": "As the camera moves, the kid giggles, missing a shot and a hopping rabbit captures his attention, adding a playful contrast to the lively atmosphere filled with chirping birds and curious kittens."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "army base",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "eating doughnuts"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "slow motion"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an army base, a soldier is joyfully eating doughnuts. The scene is captured in slow motion from a low angle, giving a dynamic view of the bustling surroundings with military equipment and personnel in the background.",
+        "prompt_continuation": "As the camera pans up, revealing rows of tanks and barracks, the soldier's comrades cheer from a distance, creating a juxtaposition between the casual moment and the disciplined environment."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "canal - urban",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "swing a racket"
+            },
+            "camera": {
+                "type": "long shot",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A single man swings a racket by an urban canal, captured in a long shot with a trucking camera movement, revealing the bustling cityscape and tranquil waterway in the background.",
+        "prompt_continuation": "As the man strikes, the camera trucks along the canal, showcasing bridges, passing boats, and the city's architecture, highlighting the contrast between his solitary activity and the vibrant urban environment."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "escalator - indoor",
+            "subject": {
+                "name": "banana",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "long shot",
+                "movement": "handheld shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A handheld camera captures a long shot of an indoor escalator. In the foreground, a lone banana sits incongruously on a step, as the bustling mall shoppers move in the background.",
+        "prompt_continuation": "The camera follows the banana as it ascends, revealing multiple floors filled with vibrant store displays and people. Shoppers glance curiously at the banana, adding a touch of whimsy to the busy mall atmosphere."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "assembly line",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "holding a book"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "dolly shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A low-angle dolly shot glides along an assembly line, revealing a man holding a book amidst the industrious setting, with machinery and conveyor belts creating a dynamic, busy backdrop around him.",
+        "prompt_continuation": "The camera's movement accentuates the man's focused expression as he inspects the book, while robotic arms and workers operate rhythmically in the bustling factory, adding a layer of organized chaos to the scene."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "living room",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "cutting a hair"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "dolly shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a cozy living room, a man carefully cuts his hair while sitting near a coffee table. The camera performs a low-angle dolly shot, revealing a bookshelf in the background and a soft rug in the foreground.",
+        "prompt_continuation": "As the man concentrates, a gentle breeze from an open window rustles the curtains. The camera glides smoothly, capturing family photos on the wall and a potted plant swaying on the windowsill."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "shower",
+            "subject": {
+                "name": "bottle",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "point of view shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Water streams down a tiled shower; a point of view shot captures a hand reaching for a vibrant bottle of shampoo on a corner shelf, creating a sense of immersion with the camera's subtle, lifelike movements.",
+        "prompt_continuation": "The hand grips the bottle, unscrews the cap, and squeezes some shampoo, creating a luscious lather. The camera shifts to highlight the water droplets cascading off the hand, enhancing the sense of realism."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "boat deck",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "three",
+                "action": "walking on the beach"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "follow shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "Three men walk along a sandy beach, their long shadows cast by the setting sun, while the camera follows their movement, capturing a medium shot aboard a boat deck.",
+        "prompt_continuation": "The camera pans to reveal seagulls flying overhead and waves gently lapping at the shore, creating a serene backdrop as the men stride purposefully, their conversations blending with the soothing sounds of the ocean."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "kitchen",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "one",
+                "action": "laying next to a man"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "handheld shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In a cozy kitchen, a cat is laying next to a man on the floor. The handheld camera moves around, showing the cat's reflection in the oven door.",
+        "prompt_continuation": "The man pets the cat as it purrs contentedly. The camera captures the gentle interaction, revealing a warm, sunlit kitchen with colorful magnets on the fridge and herbs growing on the windowsill."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "chemistry lab",
+            "subject": {
+                "name": "remote",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "trucking shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Under a dim, cinematic light, the camera trucks smoothly past a cluttered chemistry lab bench, revealing a remote device amidst the beakers and flasks, before returning to its original position, highlighting the lab's complex environment.",
+        "prompt_continuation": "The remote device suddenly activates, glowing blue. The camera focuses on bubbling chemical reactions in the background, creating a sense of anticipation and mystery as the scene unfolds in the dimly lit lab."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "fire escape",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "cooking the food"
+            },
+            "camera": {
+                "type": "helicopter camera",
+                "movement": "boom shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A woman cooks food on a fire escape. The helicopter camera performs a boom shot, capturing the urban landscape as it moves up and then back down, revealing nearby buildings and the bustling street below.",
+        "prompt_continuation": "The camera zooms in on her focused expression, then pulls back to reveal a colorful rooftop garden around her, contrasting with the gray cityscape, adding a touch of tranquility to the urban setting."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "athletic field - outdoor",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "two",
+                "action": "pirouetting"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "smooth dolly move"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "Two people pirouette gracefully on an athletic field. The smooth dolly shot captures their synchronized movement, casting long shadows across the turf as the background subtly shifts, revealing the expanse of the field.",
+        "prompt_continuation": "As the camera glides closer, the sun begins to set, casting a warm, golden hue over the dancers. Their shadows grow longer, and the athletic field's lines and markings become more pronounced."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "harbor",
+            "subject": {
+                "name": "boat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "wide shot",
+                "movement": "camera moves between different objects"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a bustling harbor, a wide shot captures the movement of the camera as it glides between boats, casting long shadows on the water, revealing a vivid interplay of light and maritime activity.",
+        "prompt_continuation": "The camera continues to pan, showing fishermen unloading their catch, seagulls hovering overhead, and dock workers bustling about, while the rhythmic sounds of waves and distant ship horns fill the air."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "swimming pool - indoor",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "one",
+                "action": "diving cliff"
+            },
+            "camera": {
+                "type": "helicopter camera",
+                "movement": "camera turns left"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A kid bravely dives off a cliff into a lush indoor swimming pool as the helicopter camera turns left, revealing sunlit water, surrounding palms, and cheerful onlookers creating a dynamic, immersive scene.",
+        "prompt_continuation": "As the kid splashes into the pool, the camera sweeps across the vibrant mural on the wall, capturing the reflections on the water and the excitement of other children lining up for their turn."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "volleyball court - outdoor",
+            "subject": {
+                "name": "cat",
+                "number_of_subjects": "one",
+                "action": "sitting on a bench"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "tracking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A low-angle tracking shot captures a solitary cat sitting on a bench by an outdoor volleyball court, with the net and players seen in the background, creating a dynamic sense of movement and depth.",
+        "prompt_continuation": "The camera moves past the cat, revealing enthusiastic players diving for the ball, the sand kicked up by their movements contrasting against the stillness of the cat, adding vibrancy to the lively outdoor scene."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "hunting lodge - outdoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "kicking a football"
+            },
+            "camera": {
+                "type": "helicopter camera",
+                "movement": "slow motion shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A man kicks a football outside a rustic hunting lodge as a helicopter camera captures the scene in slow motion, revealing snow-covered trees and distant mountains with a sense of dynamic depth.",
+        "prompt_continuation": "As the football soars through the air, the camera glides past a frozen lake reflecting the lodge's warm glow, emphasizing the serene winter landscape and the man's breath visible in the crisp air."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "anechoic chamber",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "chasing a dog"
+            },
+            "camera": {
+                "type": "wide shot",
+                "movement": "steady and smooth perspective"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a vast, silent anechoic chamber, a man is chasing a playful dog. The wide shot, with its steady and smooth perspective, reveals the chamber's intricate, sound-absorbing walls as the background stretches infinitely.",
+        "prompt_continuation": "The camera glides seamlessly, capturing the man's determination and the dog's agile movements. The silence is palpable, amplifying every footfall and pant as they weave through the geometric maze of soundproof panels."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "catacomb",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "getting a piercing"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an ancient, dimly lit catacomb, a woman steels herself as she gets a piercing. The camera trucks horizontally, revealing eerie walls adorned with skulls and cobwebs, creating a palpable sense of depth and foreboding.",
+        "prompt_continuation": "The camera continues its trucking shot, capturing flickering torches casting shadows that dance on the crumbling stone. The woman winces, gripping an amulet tightly, as the piercing artist's needle glints in the torchlight."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "beach",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "swimming with dolphins"
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "camera moves front on a slider"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "On a sunny beach, one person swims joyfully with dolphins. The low-angle camera glides forward on a slider, revealing the glistening ocean waves and distant shoreline, creating a dynamic parallax effect.",
+        "prompt_continuation": "As the camera advances, the dolphins leap gracefully around the swimmer. Sunlight sparkles through the water, illuminating vibrant coral reefs below, while seagulls circle above, adding life to the tranquil seascape."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "stadium - soccer",
+            "subject": {
+                "name": "donut",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "first person shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "A first-person medium shot navigates through a bustling soccer stadium, reflecting a player's perspective. A shiny snack bar window shows our subject: a freshly glazed donut, aligning with the stadium's vibrant backdrop.",
+        "prompt_continuation": "As the camera moves, the crowd's cheers intensify, and the parallax reveals a vivid green field. The donut is handed to a teammate, who smiles before focusing back on the unfolding match."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "junkyard",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "two",
+                "action": "skateboarding"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "slow motion"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a sunlit junkyard, two women gracefully skateboard amid rusted car parts and old machinery, captured in slow-motion cinematic shots that reveal the depth and texture of their gritty surroundings.",
+        "prompt_continuation": "As they glide over uneven terrain, sparks fly from their boards' wheels, creating a stark contrast against the junkyard's grimy backdrop, while the camera slowly pans to highlight twisted metal and scattered debris around them."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "entrance hall",
+            "subject": {
+                "name": "kid",
+                "number_of_subjects": "one",
+                "action": "sipping cup"
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "A lone kid sips from a cup in the entrance hall, his shadow cast on the floor as a drone performs a trucking shot, revealing the hall's grand architecture and intricate details.",
+        "prompt_continuation": "The drone moves past the kid, revealing tall, ornate doors and majestic staircases, while sunlight streams through stained glass windows, creating a mosaic of colors on the marble floor."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "restaurant patio",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "three",
+                "action": "reading a book"
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "smooth dolly move"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "A drone smoothly dolly moves over a serene restaurant patio, casting shadows on three men engrossed in reading books, surrounded by lush plants and softly clinking cutlery in the background.",
+        "prompt_continuation": "The drone rises, revealing twinkling string lights above, waitstaff bustling between tables, and a serene fountain in the corner, enhancing the tranquil ambiance of the vibrant patio."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "embassy",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "many",
+                "action": "eating doughnuts"
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an embassy's elegant hall, a crowd of people munch on doughnuts, as the camera performs a cinematic trucking shot, revealing ornate decor in the background and creating an engaging visual parallax.",
+        "prompt_continuation": "The camera glides past marble statues and grand chandeliers, capturing diplomats in animated conversation, their laughter harmonizing with the background hum of a lively embassy event."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "bar",
+            "subject": {
+                "name": "dog",
+                "number_of_subjects": "one",
+                "action": "jumps on a man"
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a lively bar, a single dog excitedly jumps on a man. The wide-angle camera captures the scene with a trucking shot, revealing patrons at tables and the bartender in the background.",
+        "prompt_continuation": "The camera pans, showing the surprised man laughing as other customers turn their heads, amused. Glasses clink on tables, and the bartender flashes a smile while pouring drinks, adding to the vibrant atmosphere."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "desert road",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "holds a cat"
+            },
+            "camera": {
+                "type": "medium shot",
+                "movement": "arc shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A lone man stands on a desolate desert road, gently holding a cat. The camera arcs around him, revealing vast, arid landscapes with cacti and distant mountains, highlighting their isolation.",
+        "prompt_continuation": "As the camera completes its arc, a dusty car appears in the background, abandoned and partially buried in sand, enhancing the sense of desolation and mystery in the setting."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "boat deck",
+            "subject": {
+                "name": "boat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "wide angle camera",
+                "movement": "camera moves between different objects"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "The camera glides across the boat deck, capturing the ship's structure and various equipment, the wide-angle lens emphasizes the vastness, creating a sense of dynamic depth as the scene shifts between different objects on the deck.",
+        "prompt_continuation": "The camera then moves towards the bow, revealing sailors working diligently, ropes coiled neatly, and the ocean stretching infinitely in the background, creating a vivid contrast between the activity on deck and the tranquility of the sea."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "swimming pool - indoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "two",
+                "action": "riding the sea"
+            },
+            "camera": {
+                "type": "aerial shot",
+                "movement": "tracking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "Two men are riding the gentle waves in an indoor swimming pool as an aerial tracking shot reveals the pristine water and pool structure, enhancing the sense of motion and space.",
+        "prompt_continuation": "As the camera glides smoothly, it captures the men laughing and splashing, while the reflection of the overhead lights dances on the water, adding a dynamic play of light to the serene atmosphere."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "parking lot",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "jumping off a skateboard"
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "camera pans around the subject"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a bustling parking lot, a man is captured mid-air, jumping off a skateboard. The camera, shot on a Sony FS700, dynamically pans around him, revealing parked cars and scattered pedestrians in the background.",
+        "prompt_continuation": "As the man lands smoothly, the camera follows his movement, gliding past a row of colorful cars and catching glimpses of curious onlookers. A nearby streetlight casts long shadows across the asphalt."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "nuclear power plant - outdoor",
+            "subject": {
+                "name": "bear",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "slow motion shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In slow-motion cinematic shots, a bear ambles past towering cooling towers under the eerie, industrial skyline of a nuclear power plant. The camera movement elegantly accentuates the stark contrast between nature and machinery.",
+        "prompt_continuation": "The bear pauses, sniffing the air, as the camera arcs around to reveal a setting sun casting long shadows across the plant's geometric structures, emphasizing the desolate tranquility of the moment."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "motel",
+            "subject": {
+                "name": "baseball bat",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "camera moves between different objects"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a dimly lit motel room, the camera moves fluidly between various worn-out furniture. It reveals a baseball bat resting ominously on the nightstand, before panning to the cracked wall and dusty window, creating a sense of eerie anticipation.",
+        "prompt_continuation": "The camera then shifts to a flickering TV, casting shadows that dance across the room. It slowly moves towards a slightly ajar closet door, hinting at something hidden just out of view."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "athletic field - indoor",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "sneezing"
+            },
+            "camera": {
+                "type": "shot on sony fs700",
+                "movement": "boom shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "In an indoor athletic field, a lone woman sneezes. The camera, in a boom shot, swings up to reveal reflective gym floors and equipment, then moves back to its initial position.",
+        "prompt_continuation": "As the camera returns, the reflective surfaces capture her slight embarrassment. Nearby, sports equipment and practice nets are visible, adding context to the indoor athletic ambiance. She glances around, checking if anyone noticed her sneeze."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "elevator shaft",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "many",
+                "action": "playing clarinet"
+            },
+            "camera": {
+                "type": "red dragon camera",
+                "movement": "slow motion shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In an elevator shaft, many women play clarinets in unison, their instruments echoing haunting melodies. The Red Dragon camera captures the scene in slow motion, revealing layers of complex metalwork and movement with striking clarity.",
+        "prompt_continuation": "The camera glides upwards, showcasing the intertwining cables and intricate gears, as the women's synchronized notes fill the vertical space, merging harmoniously with the rhythmic creaks and hums of the towering elevator shaft."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "swimming pool - indoor",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "washing a baby"
+            },
+            "camera": {
+                "type": "drone shot",
+                "movement": "push in shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A drone pushes in over an indoor swimming pool, capturing a woman gently washing her baby in the shallow end, while the serene blue water contrasts with the ceiling's reflections.",
+        "prompt_continuation": "The camera glides closer, revealing the baby giggling and splashing as the woman lovingly rinses the water over their tiny form, colorful pool toys float nearby, and soft sunlight filters through large windows."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "conference room",
+            "subject": {
+                "name": "hair drier",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "cinematic",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a sleek conference room, a cinematic trucking shot reveals a hair dryer placed incongruously on the polished table, as chairs and a whiteboard shift in and out of view, creating a striking visual parallax.",
+        "prompt_continuation": "As the camera continues to truck, the focus shifts to a cluster of papers and a laptop nearby, hinting at an interrupted meeting, with sunlight streaming through large windows, casting dynamic shadows."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "embassy",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "carrying a kite"
+            },
+            "camera": {
+                "type": "low aerial shot",
+                "movement": "pull out shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A man carrying a colorful kite strides across the courtyard of an ornate embassy. The camera ascends, pulls back to reveal the grand building, then gracefully returns to its original position, showcasing intricate architectural details.",
+        "prompt_continuation": "The man stops near a fountain, unfurling the kite as vibrant embassy flags flutter in the breeze. The camera circles him, capturing the sunlight glinting off the water and the embassy's majestic facade."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "home office",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "sneezing"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "smooth dolly move"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a home office, a person sneezes at their desk. The camera smoothly dollies from a high angle, revealing the room's layout, casting detailed shadows across the scene.",
+        "prompt_continuation": "After sneezing, the person grabs a tissue from a nearby box. The camera continues its smooth movement, capturing the subtle shifts in shadows and the organized clutter of the office."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "kennel - outdoor",
+            "subject": {
+                "name": "person",
+                "number_of_subjects": "one",
+                "action": "tying knot (not on a tie)"
+            },
+            "camera": {
+                "type": "long shot",
+                "movement": "trucking shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a sunny outdoor kennel, a person crouches, tying a knot on a dog leash. The camera trucks, revealing rows of kennels and playful dogs, creating a sense of depth and movement in the scene.",
+        "prompt_continuation": "As the camera moves further, it captures the person standing up, patting a happy dog's head, while other dogs bark and play in the grassy area, adding lively energy to the scene."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "playground",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "tapping a screen"
+            },
+            "camera": {
+                "type": "wide shot",
+                "movement": "camera turns right"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "A man taps a screen in a playground as the camera turns right, revealing children's equipment and casting his shadow on the ground.",
+        "prompt_continuation": "The camera continues to pan, showing children playing on swings and slides in the background, while the man's focus remains on the screen, his shadow stretching longer as the sun sets."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "motel",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "celebrating"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "slow motion shot, moves to one position and comes back to the earlier position"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A high angle, slow motion shot captures a lone woman joyously celebrating in a dimly lit motel room. The camera moves, revealing a cluttered bedside table and soft bedspreads before returning to the woman.",
+        "prompt_continuation": "As the camera moves back, it highlights her spinning with outstretched arms, champagne bottle in hand, confetti falling around her, and the neon motel sign flickering through the window, casting colorful reflections."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "lawn",
+            "subject": {
+                "name": "apple",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "low angle",
+                "movement": "push in shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "The camera pushes in low over a vibrant lawn, revealing a solitary apple glistening with morning dew as it lies nestled in the grass, with the background gradually entering the frame, showcasing a serene garden.",
+        "prompt_continuation": "As the camera continues to push in, flowers and bushes come into focus in the background, creating a peaceful, picturesque setting with the apple remaining the focal point amidst the lush greenery."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "rainforest",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "throwing a baseball"
+            },
+            "camera": {
+                "type": "cinematic quality",
+                "movement": "camera moves front on a slider"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "In a lush rainforest, a man throws a baseball with intense focus, as the camera glides smoothly forward on a slider, revealing layers of dense foliage and towering trees, creating a dynamic, immersive experience.",
+        "prompt_continuation": "As the baseball soars through the humid air, vivid wildlife scurries with the camera's movement, unveiling vibrant birds and curious monkeys, while the man's determined expression highlights the tension in this vivid, cinematic moment."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "dining hall",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "playing a game"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "pull out shot"
+            },
+            "extra attibutes": "shadow"
+        },
+        "prompt": "In a grand dining hall, a man stands alone at a table, intensely focused on a board game. The camera pulls out, revealing ornate chandeliers and long, shadowed tables stretching into the distance.",
+        "prompt_continuation": "As the camera continues to pull out, rows of empty chairs come into view, their shadows casting intricate patterns on the polished floor, highlighting the vastness and quiet elegance of the hall."
+    },
+    {
+        "setting": "outdoor_land",
+        "action_dataset": "coco",
+        "metadata": {
+            "scene": "church - outdoor",
+            "subject": {
+                "name": "kite",
+                "number_of_subjects": "",
+                "action": ""
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "push in shot"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A high angle view pushes in, revealing a colorful kite soaring above the serene church courtyard, with the church steeple and stained glass windows coming into detailed focus.",
+        "prompt_continuation": "As the camera pushes in further, children are seen joyfully running across the grassy lawn, their laughter harmonizing with the gentle rustling of leaves and the distant chime of the church bells."
+    },
+    {
+        "setting": "outdoor_water",
+        "action_dataset": "kinetics",
+        "metadata": {
+            "scene": "aqueduct",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "three",
+                "action": "bodysurfing"
+            },
+            "camera": {
+                "type": "ground shot",
+                "movement": "dolly shot"
+            },
+            "extra attibutes": "reflection"
+        },
+        "prompt": "Three men bodysurf along a glistening aqueduct, their reflections dancing on the water's surface, as a ground-level dolly shot captures the scene with the ancient structure looming in the background.",
+        "prompt_continuation": "The camera glides alongside the aqueduct, emphasizing the men's synchronized movements, while sunlit arches cast dynamic shadows that heighten the sense of motion and adventure."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "poolroom - home",
+            "subject": {
+                "name": "woman",
+                "number_of_subjects": "one",
+                "action": "holding a pillow"
+            },
+            "camera": {
+                "type": "wide shot",
+                "movement": "camera turns left"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "A woman stands in a cozy home poolroom, holding a pillow, as the camera wide shot turns left, revealing a gleaming pool table, bar stools, and vintage posters adorning the walls.",
+        "prompt_continuation": "As the camera continues to turn, it captures sunlight streaming through large windows, casting reflections on the water of an indoor pool, while the woman gazes thoughtfully at the serene, inviting space."
+    },
+    {
+        "setting": "indoor",
+        "action_dataset": "comclip",
+        "metadata": {
+            "scene": "basketball court - indoor",
+            "subject": {
+                "name": "man",
+                "number_of_subjects": "one",
+                "action": "eating an apple"
+            },
+            "camera": {
+                "type": "high angle view",
+                "movement": "camera moves back on a slider"
+            },
+            "extra attibutes": ""
+        },
+        "prompt": "On an indoor basketball court, a man eats an apple. The camera, in a high angle view, moves back on a slider, slowly revealing the basketball hoops and bleachers in the background.",
+        "prompt_continuation": "As the camera moves further back, revealing the full court, basketballs are scattered on the floor, and the echo of distant footsteps can be heard, suggesting the quiet anticipation of an upcoming game."
+    }
+]
